@@ -1,0 +1,1 @@
+<?php get_header(); ?><div class="inside_wrapper">	<div id="error" class="post error404 not-found">		<h1 class="error">Error</h1>			<p>Sorry there has been an error. Try a search instead?</p>			<?php get_search_form(); ?>			<p>Or return to the <a href="/">home page</a></p>			</div> <!-- end error --></div> <!-- end inside_wrapper --><?php get_footer(); ?>

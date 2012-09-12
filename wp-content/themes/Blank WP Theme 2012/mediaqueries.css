@@ -1,0 +1,36 @@
+/* MOBILE (NON-SMARTPHONE) */
+@media only screen and (max-width:320px)
+	{
+
+
+	}
+
+/* iPHONE / SMARTPHONES */
+@media screen and (max-width:480px)
+	{
+ 
+	}
+	
+/* IPAD */
+@media screen and (width:768px)
+	{
+   
+	}
+	
+/* SMALL BROWSERS */
+@media screen and (min-width:321px) and (max-width:766px)
+	{
+   
+	}
+
+/* MID BROWSERS */
+@media screen and (min-width:769px) and (max-width:960px)
+	{
+
+	}
+	
+/* STANDARD DESKTOPS */
+@media screen and (min-width:961px)
+	{
+ 
+	}
